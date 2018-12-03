@@ -108,7 +108,7 @@ Select a Product:
 	</th><th>
 Select Product Quantity to Purchase:
 <br>
-<input type="number" name="quantityP" value="quantity"></th></tr>
+<input type="number" name="quantityP" value="quantity" min="1"></th></tr>
 </table>
 <input type="submit" value="Purchase!">
 </form>
