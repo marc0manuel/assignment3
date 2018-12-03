@@ -1,5 +1,5 @@
 /*
-	Museum Styles
+	Assignment 3 Styles
 */
 
 body {
@@ -20,4 +20,8 @@ th, table, td
 	text-align: left;
 	border: 1px solid black;
 }
+#phoneBox
+{
+	display:none;
 	
+}
